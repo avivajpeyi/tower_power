@@ -1,3 +1,5 @@
+![Build 🧱](https://github.com/avivajpeyi/tower_power/workflows/Build%20%F0%9F%A7%B1/badge.svg?branch=master)
+
 # Tower Power
 A simple platformer game
 
