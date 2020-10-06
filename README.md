@@ -4,7 +4,7 @@
 A simple platformer game
 
 ## [Gameplay Video](https://giphy.com/gifs/LgBrRJTVtjHjA3fuMb/html5)
-![](https://giphy.com/embed/LgBrRJTVtjHjA3fuMb)
+![](demo/demo.gif)
 
 
 ## Release
