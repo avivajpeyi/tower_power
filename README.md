@@ -3,14 +3,13 @@
 # Tower Power
 A simple platformer game
 
-## Gameplay Video
-
-Gameplay from the start to the end.
+## [Gameplay Video](https://giphy.com/gifs/LgBrRJTVtjHjA3fuMb/html5)
+![](https://giphy.com/embed/LgBrRJTVtjHjA3fuMb)
 
 
 ## Release
-* You can download the game for your PC/Mac device from [here]().
-* You can play the WebGL version from [here]().
+* You can download the game for your PC/Mac device from [here](https://avivajpeyi.itch.io/tower-power).
+* You can play the WebGL version from [here](https://avivajpeyi.itch.io/tower-power).
 
 
 ## Software
@@ -23,16 +22,3 @@ Gameplay from the start to the end.
 ## Target Platform
 
 The main target platform is WebGL and phone devices.
-
-## Scripts
-
-All scripts are written by our team.
-
-## Art
-
-All textures, sprites, and animations drawn by our team.
-
-## Notes
-
-The project is made for fun as part of one-month game development challenge.
-
