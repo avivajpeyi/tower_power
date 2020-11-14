@@ -13,7 +13,7 @@ public class CameraMovement : MonoBehaviour {
 	public float speedMultiple = .05f;
 
 	private Vector3 targetPosition;
-	public Transform target;
+	private Transform target;
 
 	private float distance;
 
@@ -25,6 +25,7 @@ public class CameraMovement : MonoBehaviour {
 	void Start()
 	{
 		timer = 0;
+		target = FindObjectOfType<PlayerController>().transform;
 	}
 	void LateUpdate () {
 		distance = target.position.y - transform.position.y;
